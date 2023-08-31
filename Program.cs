@@ -10,8 +10,8 @@ namespace DB_MySQL
         static async Task Main(string[] args)
         {
 
-            var builder = new MySqlConnectionStringBuilder("Server = localhost; port = 3306; UserID = abcd; Password = 12345; Database = db")
-            {//логин, пароль и имя базы данных подставляем свою
+            var builder = new MySqlConnectionStringBuilder("Server = 91.149.187.115; port = 43251; UserID = m_n_p; Password = Ejik_7534392; Database = chik_db")
+            {
                 
             };
 
